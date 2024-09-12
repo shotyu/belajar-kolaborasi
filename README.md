@@ -4,4 +4,4 @@
 - commit kedua (2)
 - commit tiga (3)
 
-ini adalah commit yang ditambahkan untuk mencoba code review.
+Ini adalah commit yang ditambahkan untuk mencoba code review.
